@@ -1,12 +1,12 @@
 Writeup 8 - Forensics II, Network Analysis and File Carving/Parsing
 =====
 
-Name: *PUT YOUR NAME HERE*
-Section: *PUT YOUR SECTION HERE*
+Name: Mingda Guo
+Section: 0101
 
 I pledge on my honor that I have not given or received anyunauthorized assistance on this assignment or examination.
 
-Digital acknowledgement of honor pledge: *PUT YOUR NAME HERE*
+Digital acknowledgement of honor pledge: Mingda Guo
 
 ## Assignment 8 Writeup
 
@@ -45,15 +45,19 @@ sec 5(ASCII text): The imfamous security pr0s at CMSC389R will never find this!
 sec 6(ASCII text): The first recorded uses of steganography Can be traced back to 440 BC when Herodotus Mentions two exampleS in his Histories.[3] Histicaeus s3nt a message to his vassal, Arist8goras, by sha9ving the hRead of his most trusted servan-t, "marking" the message onto his scal{p, then sending him on his way once his hair had rePrown, withl the inastructIon, "WheN thou art come to Miletus, bid _Aristagoras shave thy head, and look thereon." Additionally, demaratus sent a warning about a forthcoming attack to Greece by wrIting it dirfectly on the wooden backing oF a wax tablet before applying i_ts beeswax surFace. Wax tablets were in common use then as reusabLe writing surfAces, sometimes used for shorthand. In his work Polygraphiae Johannes Trithemius developed his so-called "Ave-Maria-Cipher" that can hide information in a Latin praise of God. "Auctor Sapientissimus Conseruans Angelica Deferat Nobis Charitas Gotentissimi Creatoris" for example contains the concealed word VICIPEDIA.[4}
 
 sec 7(coord): (24,97),(229,43),(220,126),(67,64),(99,137),(189,6),(179,59),(83,192)
+
 sec 8(PNG): CMSC389R-{c0rn3rst0ne_airlin3s_to_the_m00n}
+
 sec 9(ASCII text): AF(saSAdf1AD)Snz**asd1
+
 sec 10(ASCII text): Q01TQzM4OVIte2gxZGQzbi1zM2N0MTBuLTFuLWYxbDN9
+
 sec 11(array of dword): 408015160230420
-
-After decode sec10 data using base64, got:CMSC389R-{h1dd3n-s3ct10n-1n-f1l3}
-
-
 
 
 
 5.
+CMSC389R-{c0rn3rst0ne_airlin3s_to_the_m00n}
+
+After decode sec10 data using base64, got:CMSC389R-{h1dd3n-s3ct10n-1n-f1l3}
+
